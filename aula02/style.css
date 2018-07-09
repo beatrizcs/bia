@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #7FFFD4;
+}
+img{
+	width: 30%; 
+}
+h1{
+	color: #2f634d;
+	font-size: 5em;
+}
+li{
+	font-size: 3em;
+}
+p{
+	font-size: 3em;
+}
